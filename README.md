@@ -9,6 +9,11 @@ Tilasto; A minimalist approch to system and program statistics.
 
 Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell. It's fast, extensible and easy to use. \textcolor{red}{red}
 
+
+> Quick links&nbsp;
+> <a href=[releases]>📦 Releases</a>
+> <a href=[issues]>📍 Issues</a>
+
 <br>
 
 ## Table of contents
@@ -18,8 +23,9 @@ Oh My Fish provides core infrastructure to allow you to install packages which e
   * [Startup](#startup)
   * [Dotfiles](#dotfiles)
 * [Creating Packages](#creating-packages)
-[fishshell]: http://fishshell.com
-[contributors]: https://github.com/oh-my-fish/oh-my-fish/graphs/contributors
-[omf-pulls-link]: https://github.com/oh-my-fish/oh-my-fish/pulls
-[omf-issues-new]: https://github.com/oh-my-fish/oh-my-fish/issues/new
-[releases]: https://github.com/oh-my-fish/oh-my-fish/releases
+
+[repo]: https://github.com/notaussie/tilasto
+[contributors]: https://github.com/notaussie/tilasto/graphs/contributors
+[pull-requests]: https://github.com/notaussie/tilasto/pulls
+[issues]: https://github.com/notaussie/tilasto/issues/
+[releases]: https://github.com/notaussie/tilasto/releases
