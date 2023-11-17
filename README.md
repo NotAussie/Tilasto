@@ -11,8 +11,8 @@ Oh My Fish provides core infrastructure to allow you to install packages which e
 
 
 > Quick links&nbsp;
-> <a href=[releases]>📦 Releases</a>
-> <a href=[issues]>📍 Issues</a>
+> <a href="/releases">📦 Releases</a>
+> <a href="issues">📍 Issues</a>
 
 <br>
 
