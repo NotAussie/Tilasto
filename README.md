@@ -7,7 +7,7 @@ Tilasto; A minimalist approch to system and program statistics.
 
 
 
-Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell. It's fast, extensible and easy to use. \textcolor{red}{red}
+Tilasto is a fast and reliable way to monitor your web services. Tilasto is built in Python and originally was a internal tool for EcoNuker.
 
 
 > Quick links:&nbsp;
