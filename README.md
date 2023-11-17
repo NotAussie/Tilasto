@@ -1,7 +1,7 @@
 <img src="/content/Tilasto.svg" align="left" width="192px" height="192px"/>
 <img align="left" width="0" height="192px" hspace="10"/>
 
-The <span style="color:red;">Test</span> Framework
+Tilasto; A minimalist approch to system and program statistics.
 
 ![GitHub License](https://img.shields.io/github/license/notaussie/tilasto?style=for-the-badge&logoColor=%231E1E1E&labelColor=%231E1E1E&color=%23FFFFFF)
 
