@@ -10,9 +10,10 @@ Tilasto; A minimalist approch to system and program statistics.
 Oh My Fish provides core infrastructure to allow you to install packages which extend or modify the look of your shell. It's fast, extensible and easy to use. \textcolor{red}{red}
 
 
-> Quick links&nbsp;
-> <a href="/releases">📦 Releases</a>
-> <a href="issues">📍 Issues</a>
+> Quick links:&nbsp;
+> <a href="https://github.com/NotAussie/Tilasto/releases">📦 Releases</a>
+> <a href="https://github.com/NotAussie/Tilasto/issues">📍 Issues</a>
+> <a href="https://github.com/NotAussie/Tilasto/pulls">🚚 Pull Requests</a>
 
 <br>
 
