@@ -4,6 +4,6 @@
 ## Tilasto
 
 
-## When editing make sure to:
+### When editing make sure to:
 - Run black formatter on the `/src` folder.
 - If you've added dependencies then add them to `/dependencies.txt`.
