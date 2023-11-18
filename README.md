@@ -3,8 +3,9 @@
 
 Tilasto; A minimalist approch to system and program statistics.
 
-![GitHub License](https://img.shields.io/github/license/notaussie/tilasto?style=for-the-badge&logoColor=%231E1E1E&labelColor=%231E1E1E&color=%23FFFFFF);
 ![GitHub License](https://img.shields.io/github/license/notaussie/tilasto?style=for-the-badge&logoColor=%231E1E1E&labelColor=%231E1E1E&color=%23FFFFFF)
+![Dynamic JSON Badge](https://img.shields.io/badge/dynamic/json?url=https%3A%2F%2Fraw.githubusercontent.com%2FNotAussie%2FTilasto%2Fmain%2Fbadge-data.json&query=%24.version&style=for-the-badge&label=version&labelColor=%231E1E1E&color=%23FFFFFF)
+
 
 
 
