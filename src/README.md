@@ -2,7 +2,7 @@
 <img align="left" width="0" height="192px" hspace="10"/>
 
 ## Tilasto
-
+A minimalist approch to system and program statistics.
 
 ### When editing make sure to:
 - Run black formatter on the `/src` folder.
