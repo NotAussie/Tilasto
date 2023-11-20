@@ -3,7 +3,7 @@ import math, time, src.run as run
 def watcher(original_function, name, interval=1, repeat=math.inf):
     """Backend function for watcher decorator"""
     def collector(interval, repeat):
-        """Backend function for watcher decorator"""
+        """Backend function for dealing with watcher timing"""
         count = 0
         while count < repeat:
             count += 1
