@@ -13,7 +13,7 @@ def run(saveSync = 0):
     """
     data['lastSync'] = int(time.time())
     for i in collectors:
-        runningCollectors[i] = threading.Thread(target=collectors[i]["function"], kwargs={"interval":collectors[i]["interval"], "repeat":collectors[i]["repeat"]}).start()
+        runningCollectors[i] = threading.Thread(target=collectors[i]["function"], kwargs={"interval":collectors[i]["interval"], "repeat":collectors[i]["repeat"], "name":i}).start()
         
 
 def updateTime():
