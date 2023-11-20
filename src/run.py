@@ -4,7 +4,7 @@ collectors = {}
 publishers = {}
 runningCollectors = {}
 runningPublishers = {}
-data = {"lastSync": 0, "test": {"offset": 1}, "test2": {"offset": 2}}
+data = {}
 
 def run(saveSync = 0):
     """
