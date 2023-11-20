@@ -5,6 +5,7 @@ publishers = {}
 runningCollectors = {}
 runningPublishers = {}
 data = {}
+lock = threading.Lock()
 
 def run(saveSync = 0):
     """
@@ -14,7 +15,7 @@ def run(saveSync = 0):
     data['lastSync'] = int(time.time())
     for i in collectors:
         runningCollectors[i] = threading.Thread(target=collectors[i]["function"], kwargs={"interval":collectors[i]["interval"], "repeat":collectors[i]["repeat"], "name":i}).start()
-        
+    #DATA access must use the with lock: statement to accuretly access the data.
 
 def updateTime():
     """
